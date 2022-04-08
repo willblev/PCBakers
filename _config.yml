@@ -1,20 +1,16 @@
 # ----
 # Site
 
-title: Treat Template
+title: PCBakers
 url: "https://willblev.github.io/PCBakers/"
 baseurl:
-google_analytics_key:
-newsletter_action:
-disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
 description: Bake sale FAQ for PCBakers
-author: Wikl Blevins
-  name:
+author: Will Blevins
+  name: PCBakers
   email:
-  twitter: willblev
 social:
   name: PCBakers
  
