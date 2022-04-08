@@ -2,7 +2,7 @@
 # Site
 
 title: Treat Template
-url: "https://spring-bat.cloudvent.net/"
+url: "https://willblev.github.io/PCBakers/"
 baseurl:
 google_analytics_key:
 newsletter_action:
@@ -10,16 +10,14 @@ disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Food blog template for Jekyll.
-author:
+description: Bake sale FAQ for PCBakers
+author: Wikl Blevins
   name:
   email:
-  twitter: # twitter username without the @ symbol
+  twitter: willblev
 social:
-  name: Treat Template
-  links:
-    - https://github.com/CloudCannon/treat-jekyll-template
-
+  name: PCBakers
+ 
 # -----
 # Build
 
@@ -70,8 +68,7 @@ exclude:
   - README.md
   - LICENCE
 
-# -----------
-# CloudCannon
+
 
 social_icons:
   - Facebook
