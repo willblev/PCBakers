@@ -2,17 +2,18 @@
 # Site
 
 title: PCBakers
-url: 
+url: "https://willblev.github.io/PCBakers/"
 baseurl:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Bake sale FAQ for PCBakers
+description: Bake sale FAQ for PCBakers.
 author: 
   name: 
   email:
 social:
   name: PCBakers
+
  
 # -----
 # Build
