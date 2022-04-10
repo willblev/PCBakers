@@ -4,7 +4,7 @@ title: Lemon Cake
 categories:
   - Cakes
 featured_image: https://source.unsplash.com/NAN22eh754c/1560x940
-post:
+recipe:
   servings: 12 slices
   prep: 15 minutes
   cook: 65 minutes
