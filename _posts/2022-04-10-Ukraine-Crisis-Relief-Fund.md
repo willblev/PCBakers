@@ -2,7 +2,7 @@
 date: 2022-04-10
 title: First Bake Sale - Ukraine Crisis Relief Fund
 categories:
-  - Bake Sales
+  - Bake Sale
 featured_image: https://willblev.github.io/PCBakers/images/post_images/2022-05-PCBakers-Globalgiving-Ukraine-relief-fund-sm.png 
 
 ---

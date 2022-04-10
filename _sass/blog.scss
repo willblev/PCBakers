@@ -12,7 +12,7 @@
 		display: block;
 	}
 
-	.post-overview {
+	.recipe-overview {
 		padding: 0;
 		margin: 0;
 
@@ -36,7 +36,7 @@
 		}
 	}
 
-	.post-contents {
+	.recipe-contents {
 		@media #{$desktop} {
 			display: flex;
 		}
