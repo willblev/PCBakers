@@ -3,15 +3,14 @@ date: 2022-04-10
 title: First Bake Sale - Ukraine Crisis Relief Fund
 categories:
   - Bake Sale
-featured_image: {{ site.baseurl }}/images/post_images/2022-05-PCBakers-Globalgiving-Ukraine-relief-fund-sm.png 
+featured_image: https://willblev.github.io/PCBakers/images/post_images/2022-05-PCBakers-Globalgiving-Ukraine-relief-fund-sm.png 
 
 ---
-
-# GlobalGiving: Ukraine Crisis Relief Fund 
 - When: Date to be decided, probably in May (9:00-11:00)
 - Where: Entrace to Cluster II building, on the side of Av. Doctor Marañón
 - Who: Organized by the Single Cell Genomics group (CNAG)
 
+# GlobalGiving: Ukraine Crisis Relief Fund 
 ## Disaster Response - Ukraine - Project #55462
 [https://www.globalgiving.org/projects/ukraine-crisis-relief-fund/](https://www.globalgiving.org/projects/ukraine-crisis-relief-fund/)
 
