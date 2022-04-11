@@ -4,13 +4,14 @@ title: Vegan Peanut Butter Cookie Bars
 categories:
   - Cookies
   - Vegan
-featured_image: https://images.unsplash.com/photo-1486893732792-ab0085cb2d43?w=1560&h=940&fit=crop
+  - Dairy free
+featured_image: https://cdn.loveandlemons.com/wp-content/uploads/2020/02/vegan-desserts-580x580.jpg
 recipe:
-  servings: 16-25 pieces
+  servings: 16~25 pieces
   prep: 40 minutes
   cook: 0 minutes
   ingredients_markdown: |-
-  **Cookie bar layer**
+   **Cookie bar layer**
     * ½ cup plus 2 tablespoons creamy peanut butter
     * ¼ cup plus 1 tablespoon melted coconut oil
     * ¼ cup plus 1 tablespoon maple syrup
@@ -19,12 +20,12 @@ recipe:
     * 2½ cups almond flour
     * 2½ tablespoons maca powder, optional
     * 1 cup vegan chocolate chips
-   **Cacao Layer**
+    **Cacao Layer**
     * 1½ cups walnuts
     * 2 tablespoons cacao or cocoa powder
     * ¼ teaspoon sea salt
     * 10 soft medjool dates
-    * 2 tablespoons water
+    * 2 tablespoons water    
     * Flaky sea salt for sprinkling on top, optional
   directions_markdown: |-
     1. Line an 8x8-inch baking pan with parchment paper.
