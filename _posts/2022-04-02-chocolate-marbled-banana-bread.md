@@ -1,9 +1,9 @@
 ---
-date: 2022-01-05
+date: 2022-04-02
 title: Chocolate Marbled Banana Cread
 categories:
   - Cakes
-featured_image: https://i0.wp.com/assets.preprod.foodnetwork.ca/wp-content/uploads/2022/02/583fddb2-5929-45c6-ad66-aee5a5fb99e5_healthy-marbled-banana-bread_WebReady.jpg?w=1920&quality=75
+featured_image: https://source.unsplash.com/NAN22eh754c/1560x940
 recipe:
   servings: 12 portions
   prep: 15 minutes
@@ -24,10 +24,7 @@ recipe:
 	* ½ cup buttermilk (to make buttermilk, add ½ tablespoon lemon juice to ½ cup of milk; gently stir to combine then let it sit for 5 minutes)
 	* 1 tsp vanilla extract
 	* Optional: 1 cup chopped walnuts
-
-  
   directions_markdown: |-
-
 	1. Preheat Oven 176C
 	2. Lightly mist a 9-by-5-inch metal loaf pan with nonstick cooking spray and dust well with all-purpose flour to cover the pan completely, tapping out the excess. To prepare your loaf pan for baking, you can also use a nonstick spray with flour already in it. Flouring the pan helps the bread rise well and prevents any collapse after it comes out of the oven.
 	3. Put the chocolate in a medium microwave-safe bowl and microwave on high in 30-second intervals, stirring, until melted and smooth, 1 minute to 1 minute 30 seconds. Set aside to cool slightly while preparing the batter.
