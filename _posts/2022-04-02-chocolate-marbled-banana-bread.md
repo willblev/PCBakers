@@ -9,19 +9,17 @@ recipe:
   prep: 15 minutes
   cook: 45 minutes
   ingredients_markdown: |-
-    **Banana bread**
-
-	* ¾ cup all-purpose flour, plus extra for dusting the pan
-	* ¾ cup white whole wheat flour
-	* 1 ½ tsp baking powder
-	* ½ tsp baking soda
-	* ½ tsp kosher salt
+	* 3/4 cup all-purpose flour, plus extra for dusting the pan
+	* 3/4 cup white whole wheat flour
+	* 1 1/2 tsp baking powder
+	* 1/2 tsp baking soda
+	* 1/2 tsp kosher salt
 	* 2 oz bittersweet chocolate, chopped
 	* 2 medium very ripe bananas
-	* ⅔ cup sugar
-	* ¼ cup canola oil (vegetable oil)
+	* 2/3 cup sugar
+	* 1/4 cup canola oil (vegetable oil)
 	* 2 large eggs
-	* ½ cup buttermilk (to make buttermilk, add ½ tablespoon lemon juice to ½ cup of milk; gently stir to combine then let it sit for 5 minutes)
+	* 1/2 cup buttermilk (to make buttermilk, add 1/2 tablespoon lemon juice to 1/2 cup of milk; gently stir to combine then let it sit for 5 minutes)
 	* 1 tsp vanilla extract
 	* Optional: 1 cup chopped walnuts
   directions_markdown: |-
