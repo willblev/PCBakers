@@ -17,7 +17,7 @@ recipe:
 ---
 - When: Date to be decided, probably in May (9:00-11:00)
 - Where: Entrance to Cluster II building, on the side of Av. Doctor Marañón
-- Who: Organized by the Single Cell Genomics group (CNAG)
+- Who: Organized by Will B. from the Single Cell Genomics group (CNAG)
 
 # GlobalGiving: Ukraine Crisis Relief Fund 
 ## Disaster Response - Ukraine - Project #55462
@@ -36,3 +36,4 @@ recipe:
  - Leadership & adaptability score: 100%
 - [Give.org](https://www.give.org) and the Better Business Bureau rate this charity 20/20 in terms of their Standards for Charity Accountability 
 
+-Will B.

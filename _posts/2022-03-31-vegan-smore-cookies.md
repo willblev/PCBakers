@@ -38,7 +38,7 @@ recipe:
     
     
 ---
-This vegan friendly tried-and-tested recipe is from [here](https://makeitdairyfree.com/vegan-smores-cookies/#recipe). As Paula explained to me, most of the ingredients can be found in your favorite supermarket.
+This vegan friendly tried-and-tested recipe is from [here](https://makeitdairyfree.com/vegan-smores-cookies/#recipe). As Paula explains, most of the ingredients can be found in your favorite supermarket.
 
 - flax seeds can be found in the "healthy"/"food allergy friendly" section of many supermarkets, as well as "a granel" stores
 - vegan butter can be found in most supermarkets; a very good brand is Violife, which is sold at Carrefour and BonPreu, but you can find alternatives in Mercadona

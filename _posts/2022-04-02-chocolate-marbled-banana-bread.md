@@ -26,13 +26,14 @@ recipe:
     
   directions_markdown: |-
     1. Preheat Oven 176C
-    2. Lightly mist a 9-by-5-inch metal loaf pan with nonstick cooking spray and dust well with all-purpose flour to cover the pan completely, tapping out the excess. To prepare your loaf pan for baking, you can also use a nonstick spray with flour already in it. Flouring the pan helps the bread rise well and prevents any collapse after it comes out of the oven.
+    2. Lightly cover a 9-by-5-inch metal or Pyrex pan (a 35x25cm oven-proof glass dish works perfectly) with butter or cooking spray and dust well with all-purpose flour to cover the pan completely, tapping out the excess. Flouring the pan helps the bread rise well and prevents any collapse after it comes out of the oven. You could also put a piece of baking parchment on the bottom of the tray.
     3. Put the chocolate in a medium microwave-safe bowl and microwave on high in 30-second intervals, stirring, until melted and smooth, 1 minute to 1 minute 30 seconds. Set aside to cool slightly while preparing the batter.
     4. Combine the bananas and sugar in a large bowl and mash with a potato masher or fork until mostly smooth with just a few small pieces of banana left. Add the oil and eggs and stir until combined. Using a wooden spoon or rubber spatula, mix in both flours, the baking powder, baking soda and salt. Stir in the buttermilk and vanilla.
-    5. Stir 1 cup batter into the melted chocolate. Fill the loaf pan with half the banana batter and then half the chocolate batter. Repeat the layers and gently swirl together using a spoon or knife. Bake until golden brown on top and a toothpick inserted in the center comes out clean, about 45 minutes.
+    5. Stir 1 cup batter into the melted chocolate. Fill the loaf pan with half the banana batter and then half the chocolate batter. Repeat the layers and gently swirl together using a spoon or knife. Bake until golden brown on top and a toothpick inserted in the center comes out clean, about 45 minutes. If the top gets browned before the time is up, you can loosely cover it with aluminum foil to prevent it from burning before the inside of the banana bread has finished cooking.
     6. Cool in the pan 15 minutes, and then turn out onto a wire rack to cool completely. Serve warm or at room temperature.
 
 ---
-This banana bread is moist, flavorful, and is probably "healthy" since we used some whole wheat flour and bananas, right? The swirl of chocolate and the addition of walnuts brings this recipe to the next level!
+This banana bread is my bake sale workhorse. It is moist, flavorful, and is arguably "healthy" since it uses whole wheat flour and bananas, right? I like to add ~40% more chocolate as well as some chopped walnuts to bring this recipe to the next level!
 
 Taken from [this recipe](https://www.foodnetwork.ca/recipe/healthy-marbled-banana-bread/).
+-Will B. 

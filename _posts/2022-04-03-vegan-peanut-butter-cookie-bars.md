@@ -33,4 +33,4 @@ recipe:
     3. In a small food processor, pulse the walnuts, cacao powder, and sea salt until the walnuts are well chopped. Add the dates and pulse to combine, adding 2 tablespoons water if the blade gets stuck. Process until smooth, then spread onto the cookie layer. Sprinkle with sea salt if desired. Freeze for 30 minutes (this will help them firm up, making them easier to cut). Remove and slice into bars. Store remaining bars in the fridge.
 ---
 These no-bake vegan cookies are sure to please both the vegan and non-vegan crowds! They only take a few minutes to put together, but as they need to be frozen and then thawed before serving, the total time is more like 40-50 minutes.
-[Original recipe here](https://www.loveandlemons.com/vegan-desserts/#wprm-recipe-container-44704).
+[Find the original recipe here](https://www.loveandlemons.com/vegan-desserts/#wprm-recipe-container-44704).
