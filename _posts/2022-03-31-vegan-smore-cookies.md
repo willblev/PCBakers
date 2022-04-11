@@ -44,5 +44,5 @@ This vegan friendly tried-and-tested recipe is from [here](https://makeitdairyfr
 - flax seeds can be found in the "healthy"/"food allergy friendly" section of many supermarkets, as well as "a granel" stores
 - vegan butter can be found in most supermarkets; a very good brand is Violife, which is sold at Carrefour and BonPreu, but you can find alternatives in Mercadona
 - vegan chocolate chips are sold in many places; I get mine from Mercadona
-- vegan marshmallows are a bit harder to find; you probably have to get them in vegan stores like https://somvegans.com/
+- vegan marshmallows are a bit harder to find; you probably have to get them in vegan stores like [somvegans](https://somvegans.com/).
 - vegan sugar: most sugars are vegan like la Azucarera and so on; however, there are some baking-grade sugars that have egg products included in them, so please be sure to read the labels on all of your ingredients before labeling your food as vegan
