@@ -20,6 +20,7 @@ layout: default
 	<div class="recipe-contents">
 		<div class="ingredients">
 			<h2>Ingredients</h2>
+			<p><a href="https://www.myrecipes.com/how-to/metric-conversion-charts" target="_blank">Here's a quick reference guide to convert between imperial and metric units</a></p>
 			{{ page.recipe.ingredients_markdown | markdownify }}
 		</div>
 
@@ -28,8 +29,9 @@ layout: default
 			{{ page.recipe.directions_markdown | markdownify }}
 		</div>
 	</div>
-<h3>Want to share this recipe?</h3>
 	<div class="sharing">
+	<p><b>Want to share this recipe?</b></p>
+
 		{% assign share_url = page.url | absolute_url | cgi_escape %}
 		<a class="facebook" href="https://www.facebook.com/sharer/sharer.php?u={{ share_url }}">{% include social-icon.html icon="Facebook" %}</a>
 		<a class="twitter" href="https://twitter.com/intent/tweet?url={{ share_url }}&amp;text=I'm%20going%20to%20this%20event!">{% include social-icon.html icon="Twitter" %}</a>
