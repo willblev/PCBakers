@@ -3,7 +3,7 @@
 
 title: PCBakers
 url: "https://willblev.github.io/PCBakers/"
-baseurl:
+baseurl: "https://willblev.github.io/PCBakers/"
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
