@@ -10,12 +10,12 @@ recipe:
   
   directions_markdown: |-
     1. Come over and check out the bake sale
-    2. Pick out your favorite treat from the many homemmade pastries that are available
+    2. Pick out your favorite treat from the many homemade pastries that are available
     3. Donate some money to a good cause (suggested 3 Euros minimum donation)
     4. Enjoy your delicious breakfast & chat with other folks from all around the PCB
 ---
 - When: Date to be decided, probably in May (9:00-11:00)
-- Where: Entrace to Cluster II building, on the side of Av. Doctor Marañón
+- Where: Entrance to Cluster II building, on the side of Av. Doctor Marañón
 - Who: Organized by the Single Cell Genomics group (CNAG)
 
 # GlobalGiving: Ukraine Crisis Relief Fund 
