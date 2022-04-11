@@ -30,6 +30,7 @@ layout: default
 	</div>
 
 	<div class="sharing">
+		<h2>Want to share this recipe?</h2>
 		{% assign share_url = page.url | absolute_url | cgi_escape %}
 		<a class="facebook" href="https://www.facebook.com/sharer/sharer.php?u={{ share_url }}">{% include social-icon.html icon="Facebook" %}</a>
 		<a class="twitter" href="https://twitter.com/intent/tweet?url={{ share_url }}&amp;text=I'm%20going%20to%20this%20event!">{% include social-icon.html icon="Twitter" %}</a>
@@ -39,8 +40,6 @@ layout: default
 	</div>
 
 	<div class="cta">
-		<h2>More delicious recipes</h2>
-		<p>This is one of the many fantastic recipes available on this blog</p>
 		<div class="button"><a href="{{ site.baseurl }}/recipes">Check out more recipes</a></div>
 	</div>
 	{% if site.disqus_shortname and page.comments %}

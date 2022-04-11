@@ -4,7 +4,15 @@ title: First Bake Sale - Ukraine Crisis Relief Fund
 categories:
   - Bake Sales
 featured_image: https://willblev.github.io/PCBakers/images/post_images/2022-05-PCBakers-Globalgiving-Ukraine-relief-fund-sm.png 
-
+recipe:
+  ingredients_markdown: |-
+    * 3 Euros suggested donation
+  
+  directions_markdown: |-
+    1. Come over and check out the bake sale
+    2. Pick out your favorite treat from the many homemmade pastries that are available
+    3. Donate some money to a good cause (suggested 3 Euros minimum donation)
+    4. Enjoy your delicious breakfast & chat with other folks from all around the PCB
 ---
 - When: Date to be decided, probably in May (9:00-11:00)
 - Where: Entrace to Cluster II building, on the side of Av. Doctor Marañón
