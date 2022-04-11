@@ -35,4 +35,3 @@ recipe:
  - Leadership & adaptability score: 100%
 - [Give.org](https://www.give.org) and the Better Business Bureau rate this charity 20/20 in terms of their Standards for Charity Accountability 
 
------
