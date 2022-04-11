@@ -6,7 +6,7 @@ title: Home
 		<article class="post">
 			{% include post-heading.html post=post %}
 			<div class="image">
-				<a class="button" href="{{ site.baseurl }}{{ post.url }}"><img src="{{ post.featured_image }}" alt="{{ post.title }}"></a>
+				<a href="{{ site.baseurl }}{{ post.url }}"><img src="{{ post.featured_image }}" alt="{{ post.title }}"></a>
 			</div>
 
 			{{ post.excerpt }}
