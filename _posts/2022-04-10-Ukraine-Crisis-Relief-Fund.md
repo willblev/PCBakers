@@ -25,7 +25,7 @@ recipe:
 
 ### How Your Donation Will Be Used
 - Shelter, food, and clean water for refugees
-- Health and psychosocial support
+- Health and psycho-social support
 - Access to education and economic assistance
 - And more
 
