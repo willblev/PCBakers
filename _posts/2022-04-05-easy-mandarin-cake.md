@@ -1,6 +1,6 @@
 ---
 date: 2022-04-05
-title: Easy Mandarin Cake
+title: Easy Mandarin Orange Cake
 categories:
   - Cakes
   - Quick & Easy
@@ -12,7 +12,7 @@ recipe:
   prep: 120+ minutes
   cook: 60 minutes
   ingredients_markdown: |-
-    * approx. 375 grams Mandarin oranges (about 5); use the 'Clementine' variety if possible as they are sweeter
+    * approx. 375 grams mandarin oranges (about 5); use the 'Clementine' variety if possible as they are sweeter
     * 6 large eggs
     * 225 grams white sugar
     * 250 grams ground almonds
@@ -27,6 +27,6 @@ recipe:
     3. Pour the cake mixture into the prepared tin and bake for about 1 hour; you can poke the middle with a wooden skewer or toothpick every 5' starting at 40', and if it comes out clean, it is done. You'll probably have to cover the cake with foil after about 40 minutes to prevent the the top from burning. Remove from the oven and let it cool on a wire rack, but still inside the tin. After >4 hours when it reaches room temperature, you can take it out of the tin. 
 
 ---
-This Mandarin Cake recipe, based on an old Sephardic orange cake recipe, is fairly simple: it only has 5 ingredients, and is gluten & dairy free. It can be stored in an airtight container for up to a week; some people say that this cake tastes better a day or two after it is baked, but its flavor is sure to delight at any time.
+This mandarin orange cake recipe is a new spin on an old traditional Sephardic orange cake recipe. It's fairly simple, as it only has 5 ingredients, and is gluten & dairy free. It can be stored in an airtight container for up to a week; some people say that this cake tastes better a day or two after it is baked, but its flavor is sure to delight at any time.
 Based off of [this recipe](https://www.nigella.com/recipes/clementine-cake) and [this recipe](https://cooking.nytimes.com/recipes/1016184-clementine-cake).
 -Will B. 

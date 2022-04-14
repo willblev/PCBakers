@@ -4,7 +4,7 @@ title: Vegan Peanut Butter Cookie Bars
 categories:
   - Cookies
   - Vegan
-  - Dairy free
+  - Gluten free
 featured_image: https://cdn.loveandlemons.com/wp-content/uploads/2020/02/vegan-desserts-580x580.jpg
 recipe:
   servings: 16~25 pieces

@@ -4,7 +4,6 @@ title: Vegan S'mores cookies
 categories:
   - Cookies
   - Vegan
-  - Dairy free
 featured_image: https://makeitdairyfree.com/wp-content/uploads/2021/06/vegan-smores-cookies-1.jpg
 recipe:
   servings: 16 cookies
