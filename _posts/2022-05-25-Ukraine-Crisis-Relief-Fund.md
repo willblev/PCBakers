@@ -1,5 +1,5 @@
 ---
-date: 2022-04-10
+date: 2022-05-25
 title: First Bake Sale - Ukraine Crisis Relief Fund
 categories:
   - Bake Sales
@@ -15,7 +15,7 @@ recipe:
     3. Donate some money to a good cause (suggested 3 Euros minimum donation)
     4. Enjoy your delicious breakfast & chat with other folks from all around the PCB
 ---
-- When: Date to be decided, probably in May (9:00-11:00)
+- When: Wednesday, May 25th (9:00-11:00)
 - Where: Entrance to Cluster II building, on the side of Av. Doctor Marañón
 - Who: Organized by Will B. from the Single Cell Genomics group (CNAG)
 
