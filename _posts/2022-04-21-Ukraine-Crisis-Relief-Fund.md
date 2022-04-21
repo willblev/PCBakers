@@ -1,5 +1,5 @@
 ---
-date: 2022-05-25
+date: 2022-05-21
 title: First Bake Sale - Ukraine Crisis Relief Fund
 categories:
   - Bake Sales
