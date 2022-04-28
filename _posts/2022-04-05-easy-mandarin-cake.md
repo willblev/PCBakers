@@ -3,7 +3,7 @@ date: 2022-04-05
 title: Easy Mandarin Orange Cake
 categories:
   - Cakes
-  - Quick & Easy
+  - Easy
   - Gluten free
   - Dairy free
 featured_image: https://www.nigella.com/assets/uploads/recipes/public-thumbnail/clementinecake-5bdad72943f4a.jpg
