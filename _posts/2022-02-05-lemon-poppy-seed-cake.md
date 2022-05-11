@@ -33,4 +33,4 @@ recipe:
 ---
 This lemon poppy seed pound cake is light, moist, and has a refreshing citrus kick. It was [based on this recipe](https://cooking.nytimes.com/recipes/1014800-lemon-poppy-seed-poundcake). I like to sprinkle some extra poppy seeds on the top of the raw batter once the mix has been poured into the baking pan, so the outside of the poundcake will have even more color and texture.
 
-Alternatively, instead of brushing glaze over the cake, you can serve each slice with a portion of [lemon curd]()- which in my opinion is much nicer, but requires more time to prepare. 
+Alternatively, instead of brushing glaze over the cake, you can serve each slice with a portion of [lemon curd](https://willblev.github.io/PCBakers/gluten%20free/dairy%20free/easy/other/2022/02/04/lemon-curd/)- which in my opinion is much nicer, but requires more time to prepare. 
