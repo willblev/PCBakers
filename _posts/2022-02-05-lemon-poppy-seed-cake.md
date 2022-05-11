@@ -10,7 +10,7 @@ recipe:
   cook: 60 minutes
   ingredients_markdown: |-
     * 1 ¾ cup all-purpose flour, more for pan
-    * Zest of 2 medium lemons
+    * Zest of 2 medium organic lemons (you don't want to eat any pesticides which can soak into the peel)
     * 1 cup sugar
     * ½ cup buttermilk
     * juice from 2 medium lemons (~4 tablespoons)
@@ -32,3 +32,5 @@ recipe:
 
 ---
 This lemon poppy seed pound cake is light, moist, and has a refreshing citrus kick. It was [based on this recipe](https://cooking.nytimes.com/recipes/1014800-lemon-poppy-seed-poundcake). I like to sprinkle some extra poppy seeds on the top of the raw batter once the mix has been poured into the baking pan, so the outside of the poundcake will have even more color and texture.
+
+Alternatively, instead of brushing glaze over the cake, you can serve each slice with a portion of [lemon curd]()- which in my opinion is much nicer, but requires more time to prepare. 

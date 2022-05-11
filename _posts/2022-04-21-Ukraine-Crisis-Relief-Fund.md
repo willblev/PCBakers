@@ -10,9 +10,9 @@ recipe:
     * 3 Euros suggested donation
   
   directions_markdown: |-
-    1. Come over and check out the bake sale
-    2. Pick out your favorite treat from the many homemade pastries that are available
-    3. Donate some money to a good cause (suggested 3 Euros minimum donation)
+    1. Come out and check out the first-ever PCBakers bake sale
+    2. Pick out your favorite treat(s) from the many homemade pastries that are available
+    3. Donate some money to a good cause (suggested 3 Euros minimum donation per portion)
     4. Enjoy your delicious breakfast & chat with other folks from all around the PCB
 ---
 - When: Wednesday, May 25th (9:00-11:00)
