@@ -2,7 +2,10 @@
 date: 2022-02-04
 title: Lemon Curd
 categories:
-  - 
+  - Gluten free
+  - Dairy free
+  - Easy
+  - Other
 featured_image: https://sallysbakingaddiction.com/wp-content/uploads/2016/03/lemon-curd-in-mason-jar.jpg
 recipe:
   servings: 450g, approximately 3 jars
