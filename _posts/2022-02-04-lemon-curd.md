@@ -6,7 +6,7 @@ categories:
   - Dairy free
   - Easy
   - Other
-featured_image: https://sallysbakingaddiction.com/wp-content/uploads/2016/03/lemon-curd-in-mason-jar.jpg
+featured_image: https://www.theflavorbender.com/wp-content/uploads/2019/07/Lemon-Curd-1456-780x1169.jpg
 recipe:
   servings: 450g, approximately 3 jars
   prep: 5 minutes
