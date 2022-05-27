@@ -3,7 +3,7 @@ date: 2022-05-27
 title: Bake Sale June 16th - Fundació Enllaç
 categories:
   - Bake Sales
-featured_image: https://github.com/willblev/PCBakers/blob/main/images/post_images/2022_June_PCBakers.png 
+featured_image: https://willblev.github.io/PCBakers/images/post_images/2022_June_PCBakers.png 
 recipe:
 
   ingredients_markdown: |-
