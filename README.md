@@ -8,7 +8,7 @@ The website is live at [https://willblev.github.io/PCBakers/](https://willblev.g
 
 # Source
 
-This was based off of 'Treat' a food/baking blog template for Jekyll. Browse the original template through a [live demo](https://spring-bat.cloudvent.net/).
+This was based off of ['Treat' a food/baking blog template for Jekyll](https://github.com/CloudCannon/treat-jekyll-template). Browse the original template through a [live demo](https://spring-bat.cloudvent.net/).
 
 Treat was made by [CloudCannon](http://cloudcannon.com/), the Cloud CMS for Jekyll.
 
