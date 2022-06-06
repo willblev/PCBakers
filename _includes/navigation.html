@@ -7,4 +7,7 @@
 		{% endif %}
 		<a href="{% include relative-src.html src=link.link %}" class="{{ class }}">{{ link.name }}</a>
 	{% endfor %}
+	
+	{% if site.data.sidebar.twitter && site.data.sidebar.twitter != "" %}<a target="_blank" href="https://twitter.com/{{ site.data.sidebar.twitter }}">{% include social-icon.html icon="Twitter" %}</a>{% endif %} 
+	{% if site.data.sidebar.instagram && site.data.sidebar.instagram != "" %}<a target="_blank" href="https://www.instagram.com/{{ site.data.sidebar.instagram }}">{% include social-icon.html icon="Instagram" %}</a>{% endif %} <a target="_blank" href="{{ site.baseurl }}/feed.xml">{% include social-icon.html icon="RSS" %}</a>
 </nav>
