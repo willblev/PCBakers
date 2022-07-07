@@ -11,6 +11,10 @@
 		{% if page.print_stylesheet %}
 			<link rel="stylesheet" media="print" href="{{ site.baseurl }}/css/print.css">
 		{% endif %}
+		
+		<!-- This loads the charts.min.css file from https://chartscss.org/docs/installation/ so that we can generate pretty charts with css+html for the fundraising tracker-->		
+		<link rel="stylesheet" href="{{ site.baseurl }}/css/charts.min.css"> 
+
 		<link rel="icon" type="image/png" href="{{ site.baseurl }}/images/favicon.png">
 
 		
