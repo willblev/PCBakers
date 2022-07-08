@@ -2636,7 +2636,7 @@ ul.charts-css li {
 #my-chart {
   display: grid;
   width: 70%;
-  min-width: 600px;
+  min-width: 300px;
   height: 200px;
   align-items: center;
   justify-items: center;
@@ -2657,5 +2657,4 @@ ul.charts-css li {
   grid-area: data-axis;
   writing-mode: tb-rl;
   transform: rotateZ(180deg);
-  place-self: center end;
 }
