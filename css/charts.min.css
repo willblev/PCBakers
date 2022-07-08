@@ -2635,7 +2635,8 @@ ul.charts-css li {
 }
 #my-chart {
   display: grid;
-  width: 50%;
+  width: 70%;
+  min-width: 600px;
   height: 200px;
   align-items: center;
   justify-items: center;
@@ -2646,7 +2647,6 @@ ul.charts-css li {
     ".         primary-axis";
 }
 
-/*style="height: 200px; width: 50%">*/
 #my-chart > table {
   grid-area: chart;
 }
@@ -2657,5 +2657,5 @@ ul.charts-css li {
   grid-area: data-axis;
   writing-mode: tb-rl;
   transform: rotateZ(180deg);
-  align-self: self-end;
+  justify-self: self-end;
 }
