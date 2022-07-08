@@ -211,7 +211,7 @@ ul.charts-css li {
 }
 
 .charts-css.bar.show-labels {
-	--labels-size: 80px
+	--labels-size: 2rem
 }
 
 .charts-css.bar.show-labels tbody tr th {
@@ -2634,7 +2634,6 @@ ul.charts-css li {
 	display: none
 }
 #my-chart {
-  position: absolute;
   display: grid;
   width: 70%;
   max-width: 1200px;
