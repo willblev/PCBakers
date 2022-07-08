@@ -2647,15 +2647,3 @@ ul.charts-css li {
     "data-axis chart"
     ".         primary-axis";
 }
-
-#my-chart > table {
-  grid-area: chart;
-}
-#my-chart > .primary-axis {
-  grid-area: primary-axis;
-}
-#my-chart > .data-axis {
-  grid-area: data-axis;
-  writing-mode: tb-rl;
-  transform: rotateZ(180deg);
-}
