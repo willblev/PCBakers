@@ -2657,5 +2657,5 @@ ul.charts-css li {
   grid-area: data-axis;
   writing-mode: tb-rl;
   transform: rotateZ(180deg);
-  justify-self: self-end;
+  place-self: center end;
 }
