@@ -10,3 +10,8 @@
 @import "recipes";
 @import "cloudcannon";
 @import "pinterest";
+
+img {
+    max-width: 800px;
+    height: auto;
+}
