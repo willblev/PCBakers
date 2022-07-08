@@ -2634,8 +2634,10 @@ ul.charts-css li {
 	display: none
 }
 #my-chart {
+  position: absolute;
   display: grid;
   width: 70%;
+  max-width: 1200px;
   min-width: 300px;
   height: 200px;
   align-items: center;
