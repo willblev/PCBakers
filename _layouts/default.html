@@ -32,8 +32,8 @@
 					<img src="{{ site.baseurl }}/images/CAT-flag.png" width="30" alt="Català"></a>
 			</div>
 			<!--  Here is where the chart is generated/stored. We can add new columns relatively easily. -->
-			<div>
-				<table class="charts-css column show-labels show-data-on-hover show-5-secondary-axes" style="height: 200px; width: 50%">
+			<div id= "my-chart">
+				<table class="charts-css column show-labels show-primary-axis show-data-on-hover show-heading show-5-secondary-axes" style="height: 200px; width: 50%">
 				  <caption> PCBakers cumulative funds raised</caption>
 				  <thead>
 					<tr>
@@ -43,28 +43,28 @@
 				  </thead>
 				  <tbody>
 					<tr>
-					  <th scope="row"> Apr '22 </th>
+					  <th scope="row">April</th>
 					  <td style="--size: 0.01">
-						<span class="data">€0.00</span>
+						<span class="data">€0</span>
 						<span class="tooltip">The PCBakers were<br>formed in April 2022</span>
 					  </td>
 					</tr>
 					<tr>
-					  <th scope="row"> May '22 </th>
+					  <th scope="row">May</th>
 					  <td style="--size: calc( 1015.50 / 5000 )">
 						<span class="data">€1015.50</span>
 						<span class="tooltip">€1015.50 raised in May</span>
 					  </td>
 					</tr>
 					<tr>
-					  <th scope="row"> Jun '22 </th>
+					  <th scope="row">June</th>
 					  <td style="--size: calc( 1999.95 / 5000 )">
 						<span class="data">€1999.95</span>
 						<span class="tooltip">€984.45 raised in June</span>
 					  </td>
 					</tr>
 					<tr>
-					  <th scope="row"> July '22</th>
+					  <th scope="row">July</th>
 					  <td style="--size: calc( 1999.95 / 5000 )">
 						<span class="data">€1999.95</span>
 						<span class="tooltip">€??? raised in July</span>
@@ -72,6 +72,8 @@
 					</tr>
 				  </tbody>
 				</table>
+				<div class="primary-axis"> Date </div>
+				<div class="data-axis"> Total € raised </div>
 			</div>
 			
 		</header>
