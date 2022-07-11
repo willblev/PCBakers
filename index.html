@@ -45,7 +45,7 @@ title: Home
 	{% for post in paginator.posts %}
 		<article class="post">
 			{% include post-heading.html post=post %}
-			<div class="image" style="width:70%; height:auto " >
+			<div class="image" style="max-width:800px; height:auto " >
 
 				<a href="{{ site.baseurl }}{{ post.url }}"><img src="{{ post.featured_image }}" alt="{{ post.title }}"></a>
 			</div>
