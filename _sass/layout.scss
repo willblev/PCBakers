@@ -8,7 +8,8 @@
 .main-content {
 	@media #{$desktop} {
 		display: flex;
-		
+		align-items: center;
+        justify-content: center;
 	}
 	padding: 0 30px 50px 30px;
 }
