@@ -16,7 +16,7 @@
 
 .content {
 	@media #{$desktop} {
-		flex: 1;
+		flex: auto;
 		align-items: center;
 		justify-content: center;	
 	}
