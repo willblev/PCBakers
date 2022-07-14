@@ -4,6 +4,10 @@ html , body {
 	line-height: 1.8em;
 	align-items: center;
     justify-content: center;
+    display: flex;
+    position: fixed;
+    z-index: 959;
+
 }
 
 body, input, textarea {
