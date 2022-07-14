@@ -2635,10 +2635,10 @@ ul.charts-css li {
 }
 
 #fundraising-progress-chart {
-  min-width: 300px;
+  min-width: 400px;
   height: 200px;
   justify-content: center;
   align-content: center;
-  margin: 0px auto 20px auto; 
+  margin: 0px 30px 20px 30px; 
 
 }
