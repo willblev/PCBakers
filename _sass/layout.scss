@@ -1,5 +1,5 @@
 .container {
-	max-width: 1100px;
+	max-width: 1000px;
 	margin: 0 auto;
 }
 
@@ -13,5 +13,6 @@
 .content {
 	@media #{$desktop} {
 		flex: 1;
+		justify-content: center;
 	}
 }
