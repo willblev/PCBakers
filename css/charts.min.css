@@ -2635,8 +2635,12 @@ ul.charts-css li {
 }
 
 #fundraising-progress-chart {
-  width: 70%;
-  max-width: 1200px;
+  width: 80%;
   min-width: 300px;
   height: 200px;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  margin-bottom: 20px; 
+
 }
