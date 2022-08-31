@@ -1,5 +1,5 @@
 ---
-date: 2022-06-26
+date: 2022-08-26
 title: Bake Sale September 21st - Babies Uganda
 categories:
   - Bake Sales
