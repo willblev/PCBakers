@@ -4,6 +4,7 @@ title: Bake Sale September 21st - Babies Uganda
 categories:
   - Bake Sales
 featured_image: https://willblev.github.io/PCBakers/images/post_images/Bake_sale_21_sept.png
+recipe:
 
   ingredients_markdown: |-
     * 3 Euros suggested donation
