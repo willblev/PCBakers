@@ -16,7 +16,7 @@ recipe:
     3. Donate some money to a good cause (suggested 3 Euros minimum donation per portion); there will be Ugandan tea and coffee available too (suggested donation of 1 Euro)
     4. Enjoy your delicious breakfast & chat with other folks from all around the PCB
 ---
-- When: Wednesday, July 13th (9:00-11:30)
+- When: Wednesday, September 21st (9:00-11:30)
 - Where: R+D+I Towers entrance of PCB, C/Baldiri Reixac 4
 - Who: Organized by Marta L. from the Mechanisms of Disease lab in the IRB 
    
