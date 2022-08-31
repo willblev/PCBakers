@@ -18,7 +18,7 @@ recipe:
 ---
 - When: Wednesday, September 21st (9:00-11:30)
 - Where: R+D+I Towers entrance of PCB, C/Baldiri Reixac 4
-- Who: Organized by Marta L. from the Mechanisms of Disease lab in the IRB 
+- Who: Organized by Marta L. from the Microtubule Organization group in the IRB 
    
 ---
 
