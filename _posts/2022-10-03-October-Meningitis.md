@@ -17,7 +17,7 @@ recipe:
     4. Enjoy your delicious breakfast & chat with other folks from all around the PCB
 ---
 - When: Thursday, October 20th (9:00-11:30)
-- Where: Cluster I entrance of PCB, C/ Doctor Marañon
+- Where: Cluster II entrance of PCB, C/ Doctor Marañon
 - Who: Organized by Valentine P. from Newborn Solutions
    
 ---
