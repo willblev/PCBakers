@@ -16,7 +16,7 @@ recipe:
     3. Donate some money to a good cause (suggested 3 Euros minimum donation per portion)
     4. Enjoy your delicious breakfast & chat with other folks from all around the PCB
 ---
-- When: Thursday, November 22nd (9:30-11:30)
+- When: Tuesday, November 22nd (9:30-11:30)
 - Where: Cluster II entrance of PCB, on C/ Doctor Marañon
 - Who: Organized by Laura J. from the Single Cell Genomics group (CNAG)
    
