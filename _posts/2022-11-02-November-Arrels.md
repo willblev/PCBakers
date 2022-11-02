@@ -3,7 +3,7 @@ date: 2022-11-02
 title: Bake Sale November 22nd - Fundació Arrels
 categories:
   - Bake Sales
-featured_image: https://github.com/willblev/PCBakers/blob/main/images/post_images/BAKE_SALE_22nd_NOV_22_A4.jpg
+featured_image: https://github.com/willblev/PCBakers/blob/main/images/post_images/BAKE_SALE_22nd_NOV_22_A4.jpg?raw=true
 recipe:
 
   ingredients_markdown: |-
