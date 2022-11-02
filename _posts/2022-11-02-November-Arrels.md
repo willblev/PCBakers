@@ -1,9 +1,9 @@
 ---
 date: 2022-11-02
-title: Bake Sale November 22nd - Arrels Fundaci
+title: Bake Sale November 22nd - Fundació Arrels
 categories:
   - Bake Sales
-featured_image: https://willblev.github.io/PCBakers/images/post_images/bakesale_oct20_A4.jpg
+featured_image: https://github.com/willblev/PCBakers/blob/main/images/post_images/BAKE%20SALE%2022ndNOV22%20_%20A4.jpg
 recipe:
 
   ingredients_markdown: |-
@@ -16,20 +16,22 @@ recipe:
     3. Donate some money to a good cause (suggested 3 Euros minimum donation per portion)
     4. Enjoy your delicious breakfast & chat with other folks from all around the PCB
 ---
-- When: Thursday, October 20th (9:00-11:30)
-- Where: Cluster II entrance of PCB, C/ Doctor Marañon
-- Who: Organized by Valentine P. from Newborn Solutions
+- When: Thursday, November 22nd (9:30-11:30)
+- Where: Cluster II entrance of PCB, on C/ Doctor Marañon
+- Who: Organized by Laura J. from the Single Cell Genomics group (CNAG)
    
 ---
 
-# Asociación Española contra la Meningitis (Spanish National Association Against Meningitis)
-[contralameningitis.org](https://contralameningitis.org/)
+# Barcelona association Fundació Arrels
+[Fundació Arrels](https://www.arrelsfundacio.org/en/).
 
+Arrels’ members are people who do not want anyone to have to sleep on the street. Since 1987, they have joined more than 17,200 homeless people on their way to independence, offering housing, food, and social and medical attention. They count on the support of 79 working people, more than 300 volunteers, and around 6,600 associates and donors who collaborate to make their goal possible. 
+
+#nobodysleepingonthestreet.
+
+-------------
 ### How Your Donation Will Be Used
 This non-profit organization has many goals, but all of them are focused around fighting meningitis: 
-- Raise public awareness about meningitis
-- Educate people about the consequences of a meningitis infection, and provide information about the preventivie measures such as vaccines
-- Fund research to advance prevention, detection, and treatments for meningitis 
-- Provide releif and support to individuals and families who have been impacted by meningitis
-
-
+- Outreach on the streets to meet homeless individuals, listen to their needs, and inform them of their options
+- Provide housing, social, and health care services 
+- Accompany vulnerable individuals towards a safer situation where they can be independent
