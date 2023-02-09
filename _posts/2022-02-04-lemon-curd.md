@@ -3,7 +3,6 @@ date: 2022-02-04
 title: Lemon Curd
 categories:
   - Gluten free
-  - Dairy free
   - Easy
   - Other
 featured_image: https://www.theflavorbender.com/wp-content/uploads/2019/07/Lemon-Curd-1456-780x1169.jpg

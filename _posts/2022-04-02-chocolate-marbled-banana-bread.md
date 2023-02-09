@@ -3,7 +3,6 @@ date: 2022-04-02
 title: Chocolate Marbled Banana Bread
 categories:
   - Cakes
-  - Breads
 featured_image: https://api.vip.foodnetwork.ca/wp-content/uploads/2022/02/583fddb2-5929-45c6-ad66-aee5a5fb99e5_healthy-marbled-banana-bread_WebReady.jpg
 recipe:
   servings: 12 portions
