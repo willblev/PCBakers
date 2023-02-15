@@ -16,9 +16,9 @@ recipe:
     3. Donate some money to a good cause (suggested 3 Euros minimum donation per portion)
     4. Enjoy your delicious breakfast & chat with other folks from all around the PCB
 ---
-- When:  Wednesday, January 25th (9:00-11:30)
+- When:  Friday, February 17th (9:00-11:30)
 - Where: Cluster II entrance of PCB, on C/ Doctor Marañon
-- Who: Organized by Zarina from the Single Cell Genomics group (CNAG)
+- Who: Organized by Zarina N. from the Pluripotency for organ regeneration group (IBEC)
 
 ---
 
