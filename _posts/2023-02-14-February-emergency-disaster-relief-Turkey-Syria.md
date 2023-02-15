@@ -22,8 +22,7 @@ recipe:
 
 ---
 
-# 
-[Cure Alzheimer's Fund](http://curealz.org/)
+# Turkey and Syria Humanitarian Disaster Relief
 
 On THIS FRIDAY (February 17th) from 9:00-11:30 near the entrance of Cluster II near Av. Doctor Marañon, the PCBakers will run an emergency bake sale to raise funds for humanitarian disaster relief following the earthquakes in Turkey and Syria. 
 
@@ -31,8 +30,3 @@ All donations will go directly to the [Ahbap Derneği]( https://ahbap.org/disast
 
 At the end of the event, as always, PCBakers will transfer 100% of all donations to these groups. If you would like to bring a cake, join the PCBakers club, or propose a charity for a future event, please see the "About" section of our website to find out how to help us bake for change!
 
-
--------------
-### How Your Donation Will Be Used
-
-- 100% of all donations go towards 
