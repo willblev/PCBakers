@@ -16,7 +16,7 @@ recipe:
     3. Donate some money to a good cause (suggested 3 Euros minimum donation per portion)
     4. Enjoy your delicious breakfast & chat with other folks from all around the PCB
 ---
-- When:  Friday, February 17th (9:00-11:00)
+- When:  Tuesday, February 28th (9:00-11:00)
 - Where: Cluster II entrance of PCB, on C/ Doctor Marañon
 - Who: Organized by Anna B. from CNAG
 
