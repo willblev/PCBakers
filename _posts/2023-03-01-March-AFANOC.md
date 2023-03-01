@@ -18,13 +18,16 @@ recipe:
 ---
 - When:  Tuesday, March 14th (9:00-11:30)
 - Where: Cluster II entrance of PCB, on C/ Doctor Marañon
-- Who: Organized by Anna B. from CNAG
+- Who: Organized by Alicia E. from the PCB
 
 ---
 
 # AFANOC
 
-Tuesday, March 14th 
+The next PCBakers charity bake sale will take place on Tuesday, March 14th. We will be raising money for [@afanoc_org](https://afanoc.org/), an organization which supports families and friends of children with cancer in their emotional, physical, and economic needs.
 
+Everybody will be talking about it, so don’t miss out! Please help us spread the word and don’t forget to add the event to your calendars.
+
+ 
 At the end of the event, as always, PCBakers will transfer 100% of all donations to these groups. If you would like to bring a cake, join the PCBakers club, or propose a charity for a future event, please see the "About" section of our website to find out how to help us bake for change!
 
