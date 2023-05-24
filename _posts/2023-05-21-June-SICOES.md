@@ -1,5 +1,5 @@
 ---
-date: 2023-03-01
+date: 2023-05-23
 title: Bake Sale June 15th - SICOES
 categories:
   - Bake Sales
