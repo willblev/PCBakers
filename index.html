@@ -3,8 +3,11 @@ title: Home
 ---
 
 <!--  Here is where the chart is generated/stored. We can add new columns relatively easily. -->
+#my-chart .column {
+  --labels-size: 2rem;
+}
 <div id="fundraising-progress-chart">
-	<table class="charts-css column show-labels show-primary-axis show-heading show-5-secondary-axes">
+	<table class="charts-css column show-labels show-primary-axis show-heading show-5-secondary-axes data-outside">
 	  <caption> <b>PCBakers fundraising cumulative total</b> </caption>
 	  <tbody>
 		  <th scope="row">May 2022</th>
