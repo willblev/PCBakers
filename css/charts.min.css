@@ -2640,7 +2640,7 @@ ul.charts-css li {
   height: 200px;
   justify-items: center;
   align-items: center;
-  grid-template-columns: 50px 1fr 50px;
+  grid-template-columns: 50px 1fr;
   grid-template-rows: 250px 50px;
   grid-template-areas:
     "secondary-axis chart"
