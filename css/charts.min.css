@@ -2634,11 +2634,28 @@ ul.charts-css li {
 	display: none
 }
 
+
 #fundraising-progress-chart {
   min-width: 400px;
   height: 200px;
-  justify-content: center;
-  align-content: center;
-  margin: 0px auto 20px auto; 
-
+  justify-items: center;
+  align-items: center;
+  grid-template-columns: 50px 1fr 50px;
+  grid-template-rows: 250px 50px;
+  grid-template-areas:
+    "secondary-axis chart"
+    ". primary-axis .";
 }
+
+#my-fundraising-progress-chart .column {
+  grid-area: chart;
+}
+#my-fundraising-progress-chart .primary-axis {
+  grid-area: primary-axis;
+}
+#my-fundraising-progress-chart .secondary-axis {
+  grid-area: secondary-axis;
+  writing-mode: tb-rl;
+  transform: rotateZ(180deg);
+}
+
